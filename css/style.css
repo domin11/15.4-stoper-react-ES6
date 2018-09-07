@@ -1,0 +1,18 @@
+body {
+  background: #343e4f;
+  text-align: center;
+}
+.stopwatch {
+  margin-top: 18vh;
+  font-size: 5em;
+  color: #ccff00;
+}
+.button {
+  font-size: 2em;
+  background: #ccff00;
+  color: #343e4f;
+  margin: 3px;
+}
+.button:hover{
+  background: #a1c413;
+}
